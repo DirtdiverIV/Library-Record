@@ -8,6 +8,8 @@ import { FooterComponent } from './footer/footer.component';
 import { ListBookComponent } from './list-book/list-book.component';
 import { AddBookComponent } from './add-book/add-book.component';
 import { EditBookComponent } from './edit-book/edit-book.component';
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -17,11 +19,14 @@ import { EditBookComponent } from './edit-book/edit-book.component';
     FooterComponent,
     ListBookComponent,
     AddBookComponent,
-    EditBookComponent
+    EditBookComponent,
+    
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

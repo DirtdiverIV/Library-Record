@@ -1,0 +1,140 @@
+{
+  "books": [
+    {
+      "id": "9",
+      "image": "assets/images/book9.jpg",
+      "name": "The Art of Retrofuturism",
+      "editorial": "Retro Renaissance Books",
+      "gender": "Art",
+      "author": "Benjamin Johnson"
+    },
+    {
+      "id": "10",
+      "image": "assets/images/book10.jpg",
+      "name": "A Retrofuture Odyssey",
+      "editorial": "Futuristic Journeys Publishing",
+      "gender": "Historical Fiction",
+      "author": "Ella Anderson"
+    },
+    {
+      "id": "11",
+      "image": "assets/images/book11.jpg",
+      "name": "Clockwork Dreams",
+      "editorial": "Steampunk Stories",
+      "gender": "Young Adult",
+      "author": "Alexander Davis"
+    },
+    {
+      "id": "12",
+      "image": "assets/images/book12.jpg",
+      "name": "The Future is Yesterday",
+      "editorial": "Retro Visions",
+      "gender": "Dystopian",
+      "author": "Victoria Thompson"
+    },
+    {
+      "id": "13",
+      "image": "assets/images/book13.jpg",
+      "name": "Retrofuturist Utopias",
+      "editorial": "Futurescapes Publishing",
+      "gender": "Science",
+      "author": "William Roberts"
+    },
+    {
+      "id": "14",
+      "image": "assets/images/book14.jpg",
+      "name": "The Age of Tomorrow",
+      "editorial": "Future Chronicles",
+      "gender": "Post-Apocalyptic",
+      "author": "Isabella Anderson"
+    },
+    {
+      "id": "15",
+      "image": "assets/images/book15.jpg",
+      "name": "The Steampunk Enigma",
+      "editorial": "Enigmatic Books",
+      "gender": "Suspense",
+      "author": "Christopher Martin"
+    },
+    {
+      "id": "16",
+      "image": "assets/images/book16.jpg",
+      "name": "Retrofuture Renaissance",
+      "editorial": "Futuristic Renaissance Publishing",
+      "gender": "Literary Fiction",
+      "author": "Grace Wilson"
+    },
+    {
+      "id": "17",
+      "image": "assets/images/book17.jpg",
+      "name": "The Mechanized Utopia",
+      "editorial": "Mechanical Dreams",
+      "gender": "Crime",
+      "author": "Samuel Thompson"
+    },
+    {
+      "id": "18",
+      "image": "assets/images/book18.jpg",
+      "name": "Echoes of a Bygone Future",
+      "editorial": "Retro Echo Books",
+      "gender": "Horror",
+      "author": "Mia Johnson"
+    },
+    {
+      "id": "19",
+      "image": "assets/images/book19.jpg",
+      "name": "The Retrofuturist Engineer",
+      "editorial": "Engineered Dreams Publishing",
+      "gender": "Technology",
+      "author": "Jacob Anderson"
+    },
+    {
+      "id": "20",
+      "image": "assets/images/book20.jpg",
+      "name": "The Clockwork Frontier",
+      "editorial": "Retro Tech Frontier",
+      "gender": "Western",
+      "author": "Sophie Roberts"
+    },
+    {
+      "id": "21",
+      "image": "assets/images/book21.jpg",
+      "name": "The Future Retold",
+      "editorial": "Retro Publishing Co.",
+      "gender": "Humor",
+      "author": "Ryan Thompson"
+    },
+    {
+      "id": "22",
+      "image": "assets/images/book22.jpg",
+      "name": "The Steampunk Code",
+      "editorial": "Codebreaker Books",
+      "gender": "Espionage",
+      "author": "Abigail Davis"
+    },
+    {
+      "id": "23",
+      "image": "assets/images/book23.jpg",
+      "name": "Retrofuture Revolution",
+      "editorial": "Future Revolution Publishing",
+      "gender": "Political",
+      "author": "Noah Thompson"
+    },
+    {
+      "id": "24",
+      "image": "assets/images/book24.jpg",
+      "name": "The Retrofuturist Detective",
+      "editorial": "Mystery Books",
+      "gender": "Detective",
+      "author": "Sophia Johnson"
+    },
+    {
+      "id": "25",
+      "image": "assets/images/book25.jpg",
+      "name": "Journey to the Retrofuture",
+      "editorial": "Retro Adventures Publishing",
+      "gender": "Adventure",
+      "author": "Liam Wilson"
+    }
+  ]
+}
